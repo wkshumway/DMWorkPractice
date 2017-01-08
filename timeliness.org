@@ -1,0 +1,4 @@
+#+BEGIN_SRC emacs-lisp
+(defun get-timeliness ()
+)
+#+END_SRC
