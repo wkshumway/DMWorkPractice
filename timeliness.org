@@ -3,3 +3,11 @@
 "I have finished this assignment"
 )
 #+END_SRC
+
+#+BEGIN_SRC emacs-lisp
+(shell-command "git log")
+(shell-command "\n")
+#+END_SRC
+
+#+RESULTS:
+: 0
